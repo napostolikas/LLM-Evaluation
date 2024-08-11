@@ -1,4 +1,4 @@
-# LLM-Evaluation
+# Evaluation of LLMs using custom data
 
 This thesis project focuses on evaluating three different LLMs (i.e. Starling-LM-Alpha, OpenHermes-Mistral-2.5 and Openchat-3.5) on downstream NLP tasks. The tasks are Natural Language Inference (NLI), Named Entity Recognition (NER) and Open-book Question Answering (QA). For each task we test different moods, voices, prompt templates in various few-shot scenarios (i.e. 0, 1 and 3). 
 
